@@ -1,10 +1,9 @@
-# Prerequisites
-#
+# Prerequisites ###############
 - JDK 17 
 - Maven 3.9 
 - MySQL 8
 
-# Technologies 
+# Technologies ################
 - JAKARTA
 - Spring MVC
 - Spring Security
@@ -16,7 +15,7 @@
 - Memcached
 - Rabbitmq
 - ElasticSearch
-# Database
+# Database ####################
 Here,we used Mysql DB 
 sql dump file:
 - /src/main/resources/db_backup.sql
